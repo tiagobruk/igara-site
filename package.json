@@ -1,16 +1,1 @@
-{
-  "name": "igara-site",
-  "version": "1.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "vite": "^4.0.0"
-  }
-}
+"name": "Igara-sate", "version". "1.0.0", "scripts" "derivate", "build": Write build "preview": "vite preview" "dependencies" "@vitejs/plugin-react... "latest", "react" "118.20. "react-dom": "118.2.0" "devDependencres ouster in4.0.0l
