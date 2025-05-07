@@ -1,0 +1,1 @@
+import React from 'react'; export default function Produtos() { return (<section id="produtos" className="produtos"><h2>Coleção IGARA</h2><div className="vitrine"><div className="produto-card"><h3>Anel Solar</h3><button>Ver NFT</button></div><div className="produto-card"><h3>Pulseira Lótus</h3><button>Ver NFT</button></div></div></section>); }
